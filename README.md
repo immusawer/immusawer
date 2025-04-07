@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👨‍💻 Abdul Musawer
 
-<!--
-**immusawer/immusawer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Web Developer | Computer Science Graduate**
 
-Here are some ideas to get you started:
+I'm a passionate developer who enjoys building scalable and elegant web applications.  
+Focused on writing clean code and learning modern technologies to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack
+**Languages & Frameworks:**  
+React · Next.js · JavaScript · Laravel · NestJS · Java
+
+**Database & Tools:**  
+PostgreSQL · Git · VS Code
+
+---
+
+### 📫 Contact
+📍 Kabul, Afghanistan  
+📧 dinzad.musawer@gmail.com
+

@@ -31,15 +31,10 @@ Built and maintained web applications.
 
 Performed unit/integration testing.
 
-Products Promoter
-📍 Roshan TDCA | 2023–2024
-
-Promoted telecom products at events.
-
 📬 Contact Me
 📧 Email: dinzad.musawer@gmail.com
-📱 Phone: +93 744021022 / +93 798668346
-📍 Location: Qala e Mussa, District 10, Kabul, Afghanistan
+📱 Phone: +93 744021022
+📍 Location: Kabul, Afghanistan
 
 GitHub Follow
 

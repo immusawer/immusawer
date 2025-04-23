@@ -1,52 +1,45 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=👨‍💻+Abdul+Musawer+(Dinzad);💻+Full+Stack+Web+Developer;🚀+Open-Source+Enthusiast;🔧+Problem+Solver;🌐+Tech+for+Good" alt="Typing Animation" /> </p><p align="center"> <a href="mailto:dinzad.musawer@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/yourusername"> <img src="https://img.shields.io/github/followers/yourusername?label=GitHub&style=for-the-badge&color=181717&logo=github" alt="GitHub"> </a> </p>
-🚀 About Me
-javascript
-const dinzad = {
-  pronouns: "He/Him",
-  education: "BSc Computer Science @ Kabul University",
-  currentRole: "Junior Web Developer @ PGL",
-  passions: [
-    "Building scalable web apps",
-    "Open-source contributions",
-    "Mentoring new developers",
-    "Tech for social impact"
-  ],
-  funFact: "Can debug CSS while blindfolded (almost!)"
-};
+👨‍💻 Abdul Musawer (Dinzad)
+Full Stack Web Developer | Computer Science Graduate
+🚀 Passionate about building scalable, elegant web applications with clean code and modern technologies.
+
+🌟 About Me
+🎓 Bachelor of Computer Science from Kabul University (2020–2024).
+
+💼 Experienced in IT project management and full-stack web development.
+
+🌍 Versatile professional bridging tech and business environments.
+
 🛠 Tech Stack
-Frontend
-<div align="left"> <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,redux" alt="Frontend Skills" /> </div>
-Backend
-<div align="left"> <img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,java,express" alt="Backend Skills" /> </div>
-DevOps & Tools
-<div align="left"> <img src="https://skillicons.dev/icons?i=docker,git,postgres,aws,vscode,figma" alt="DevOps Skills" /> </div>
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=algolia&hide_border=true" alt="GitHub Streak" width="48%" /> </p><p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="90%" /> </p>
-🔥 Recent Projects
-Project	Description	Tech Stack
-E-Commerce Platform	Full-featured online store	React, Node.js, PostgreSQL
-Task Management App	Kanban-style productivity tool	Next.js, NestJS, MongoDB
-AfghanTech Blog	Tech community platform	Laravel, TailwindCSS
-📜 Featured Blog Posts
-How I Optimized React Performance by 70%
+Languages & Frameworks
+<div style="display: flex; flex-wrap: wrap; gap: 10px;"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"> </div>
+Databases & Tools
+<div style="display: flex; flex-wrap: wrap; gap: 10px;"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"> </div>
+💼 Work Experience
+Junior Web Developer
+📍 PGL (Peace Global) | 2025–Present
 
-Building Microservices with NestJS
+Develop and test web applications.
 
-From Kabul to Code: My Dev Journey
+Debug and troubleshoot code.
 
-🏆 Achievements
-🥇 1st Place - Kabul University Hackathon 2023
+Assist in database management.
 
-🌟 Top Contributor - React Afghanistan OSS
+Full Stack Web Developer Intern
+📍 Rupani Foundation-WFP | Jun 2024–Jan 2025
 
-📢 Speaker - AfghanDevCon 2024
+Built and maintained web applications.
 
-💬 Let's Connect!
-<p align="center"> <a href="https://twitter.com/yourhandle"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"> </a> <a href="https://dev.to/yourusername"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"> </a> <a href="https://calendly.com/yourusername"> <img src="https://img.shields.io/badge/Book_Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Calendly"> </a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" /> </p>
-🔹 Visitor Counter
-<p align="center"> <img src="https://profile-counter.glitch.me/yourusername/count.svg" alt="Visitor Counter" /> </p>
-✨ Thanks for visiting! ✨
+Performed unit/integration testing.
 
-"First, solve the problem. Then, write the code." - John Johnson
 
+📬 Contact Me
+📧 Email: dinzad.musawer@gmail.com
+📱 Phone: +93 744021022
+📍 Location: Kabul, Afghanistan
+
+GitHub Follow
+
+🔹 Key Traits
+✔ Problem Solver | ✔ Team Player | ✔ Lifelong Learner
+
+✨ Let’s build something amazing together!

@@ -58,7 +58,7 @@ Kabul University, Afghanistan
 
 ## 📬 **Connect With Me**  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinzad.musawer@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/abdul-musawer-dinzad-49a5a41ba/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/abdul-musawer-dinzad-49a5a41ba)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF7139?style=for-the-badge)](https://musawer-cv.vercel.app/)
 
 📍 **Kabul, Afghanistan** | 📱 **+93 744021022**  

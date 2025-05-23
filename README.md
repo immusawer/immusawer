@@ -1,63 +1,79 @@
-👨‍💻 Abdul Musawer (Dinzad)
-Full Stack Developer | Computer Science Graduate
+Musawer Dinzad - Full-Stack Web Developer 👨‍💻
+Portfolio
+GitHub
 
-<div align="center"> <a href="https://musawer-cv.vercel.app/"> <img src="https://img.shields.io/badge/🚀_Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"> </a> <a href="mailto:dinzad.musawer@gmail.com"> <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://www.linkedin.com/in/abdul-musawer-dinzad-49a5a41ba/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> </div>
-🌟 About Me
-Passionate full-stack developer with expertise in building scalable web applications using modern technologies. Computer Science graduate from Kabul University with hands-on experience in technical development and IT project management.
+👋 About Me
+I'm a passionate Computer Science graduate from Kabul University with expertise in full-stack web development. I thrive at the intersection of technology and business, creating robust web solutions while understanding project management needs.
 
-🔹 Key Traits:
-✔ Problem Solver | ✔ Team Player | ✔ Lifelong Learner
+javascript
+const musawer = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "Java", "PHP"],
+  frameworks: ["React", "Next.js", "NestJS", "Laravel"],
+  tools: ["Docker", "Git", "PostgreSQL"],
+  architecture: ["microservices", "RESTful APIs"],
+  currentRole: "Full-Stack Developer @ Peace Global Logistics"
+};
+🛠 Technical Skills
+Frontend
+React
+Next.js
+JavaScript
 
-📍 Kabul, Afghanistan | 📱 +93 744021022
+Backend
+NestJS
+Laravel
+Java
 
-🛠 Tech Stack
-Languages & Frameworks
-<div align="left"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"> </div>
-Databases & Tools
-<div align="left"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"> </div>
-🎓 Education
-2020-2024 | Bachelor of Computer Science
-Kabul University, Afghanistan
+Databases & DevOps
+PostgreSQL
+Docker
+Git
 
-💼 Experience
-Full-Stack Web Developer
-2025-Present | PGL (Peace Global Logistics)
+💼 Professional Experience
+Full-Stack Web Developer @ Peace Global Logistics *(2025 - Present)*
+Develop and test scalable web applications
 
-Developed and tested web applications using modern frameworks.
+Implement robust debugging and troubleshooting processes
 
-Debugged and optimized code for performance.
+Optimize database performance and management
 
-Assisted in PostgreSQL database management.
+Conduct comprehensive unit and integration testing
 
-Stayed updated with industry trends and best practices.
+Full-Stack Web Developer Intern @ Rupani Foundation-WFP (Jun 2024 – Jan 2025)
+Contributed to web application development lifecycle
 
-Full-Stack Developer Intern
-Jun 2024-Jan 2025 | Rupani Foundation-WFP
+Assisted in database architecture design
 
-Built and maintained responsive web applications.
+Stayed current with emerging web technologies
 
-Performed unit and integration testing.
+📚 Education
+Bachelor of Computer Science
+Kabul University *(2020 - 2024)*
+Specialized in Software Engineering and Web Technologies
 
-Collaborated with teams to troubleshoot issues.
+High School Diploma
+Ahmad Shah Masoud High School *(2007 - 2019)*
 
-Products Promoter
-2023-2024 | Roshan TDCA
+🌟 Featured Projects
+Project 1
+Project 2
+Project 3
+(Add links to your best GitHub projects with short descriptions)
 
-Promoted telecom products through customer engagement.
+📫 Get In Touch
+📧 Email: Dinzad.Musawer@gmail.com
 
-Represented the company at trade shows and events.
+📱 Phone: +93 744021022 / +93 798668346
 
-📬 Let’s Connect
-<div align="left"> <a href="mailto:dinzad.musawer@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://www.linkedin.com/in/abdul-musawer-dinzad-49a5a41ba/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://musawer-cv.vercel.app/"> <img src="https://img.shields.io/badge/🌐_Portfolio-FF7139?style=for-the-badge" alt="Portfolio"> </a> </div>
-✨ "Let’s build something amazing together!"
+🏠 Address: Qala e Mussa, District no 10, Kabul
 
-Key Improvements:
-Visual Hierarchy: Better spacing, bold headers, and consistent alignment.
+Visits
+Twitter (Add your Twitter)
 
-Interactive Badges: Clickable badges for email, LinkedIn, and portfolio.
+⭐️ From Musawer Dinzad (Add your social media links as badges)
 
-Tech Stack Grouping: Separated languages/frameworks and tools for clarity.
+🔥 GitHub Stats
+Musawer's GitHub Stats
 
-Concise Bullet Points: Rewrote experience points to be more impactful.
-
-Modern Footer: Added a motivational quote and streamlined contact options.
+Top Languages

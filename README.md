@@ -58,14 +58,6 @@ Kabul University *(2020 - 2024)*
 High School Diploma
 Ahmad Shah Masoud High School *(2007 - 2019)*
 
-🔥 Featured Projects
-Project Name 1 - Brief description of project and technologies used
-
-Project Name 2 - Brief description of project and technologies used
-
-Project Name 3 - Brief description of project and technologies used
-
-(Replace with your actual project links and descriptions)
 
 📫 Contact Me
 Email: Dinzad.Musawer@gmail.com

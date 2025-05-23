@@ -1,79 +1,79 @@
-Musawer Dinzad - Full-Stack Web Developer 👨‍💻
-Portfolio
-GitHub
+# Musawer Dinzad - Full-Stack Web Developer
 
-👋 About Me
-I'm a passionate Computer Science graduate from Kabul University with expertise in full-stack web development. I thrive at the intersection of technology and business, creating robust web solutions while understanding project management needs.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=vercel)](https://musawer-cv.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20My%20Profile-black?style=for-the-badge&logo=github)](https://github.com/immusawer)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:Dinzad.Musawer@gmail.com)
 
-javascript
+## 👨‍💻 About Me
+
+I'm a Computer Science graduate from Kabul University specializing in full-stack web development. With experience across the entire development lifecycle, I build robust, scalable web applications while bridging technical and business requirements.
+
+```javascript
 const musawer = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "Java", "PHP"],
+  code: ["JavaScript", "Java", "PHP", "HTML/CSS"],
   frameworks: ["React", "Next.js", "NestJS", "Laravel"],
-  tools: ["Docker", "Git", "PostgreSQL"],
-  architecture: ["microservices", "RESTful APIs"],
-  currentRole: "Full-Stack Developer @ Peace Global Logistics"
+  databases: ["PostgreSQL"],
+  tools: ["Docker", "Git/GitHub", "REST APIs"],
+  currentPosition: "Full-Stack Developer @ Peace Global Logistics"
 };
-🛠 Technical Skills
-Frontend
-React
-Next.js
-JavaScript
+🛠 Tech Stack
+Frontend:
+React · Next.js · JavaScript (ES6+) · HTML5 · CSS3
 
-Backend
-NestJS
-Laravel
-Java
+Backend:
+NestJS · Laravel · Java · Node.js
 
-Databases & DevOps
-PostgreSQL
-Docker
-Git
+DevOps & Databases:
+PostgreSQL · Docker · Git · GitHub · RESTful APIs
 
 💼 Professional Experience
 Full-Stack Web Developer @ Peace Global Logistics *(2025 - Present)*
-Develop and test scalable web applications
 
-Implement robust debugging and troubleshooting processes
+Develop and maintain scalable web applications
 
-Optimize database performance and management
+Implement efficient debugging and troubleshooting processes
 
-Conduct comprehensive unit and integration testing
+Optimize database architecture and queries
 
-Full-Stack Web Developer Intern @ Rupani Foundation-WFP (Jun 2024 – Jan 2025)
-Contributed to web application development lifecycle
+Conduct comprehensive testing (unit/integration)
 
-Assisted in database architecture design
+Full-Stack Web Developer Intern @ Rupani Foundation-WFP *(Jun 2024 - Jan 2025)*
 
-Stayed current with emerging web technologies
+Contributed to full development lifecycle of web applications
+
+Assisted in database design and optimization
+
+Researched and implemented modern web technologies
+
+Products Promoter @ Roshan TDCA *(2023 - 2024)*
+
+Demonstrated technical products to potential customers
+
+Represented company at trade shows and events
 
 📚 Education
 Bachelor of Computer Science
 Kabul University *(2020 - 2024)*
-Specialized in Software Engineering and Web Technologies
 
 High School Diploma
 Ahmad Shah Masoud High School *(2007 - 2019)*
 
-🌟 Featured Projects
-Project 1
-Project 2
-Project 3
-(Add links to your best GitHub projects with short descriptions)
+🔥 Featured Projects
+Project Name 1 - Brief description of project and technologies used
 
-📫 Get In Touch
-📧 Email: Dinzad.Musawer@gmail.com
+Project Name 2 - Brief description of project and technologies used
 
-📱 Phone: +93 744021022 / +93 798668346
+Project Name 3 - Brief description of project and technologies used
 
-🏠 Address: Qala e Mussa, District no 10, Kabul
+(Replace with your actual project links and descriptions)
 
-Visits
-Twitter (Add your Twitter)
+📫 Contact Me
+Email: Dinzad.Musawer@gmail.com
 
-⭐️ From Musawer Dinzad (Add your social media links as badges)
+Phone: +93 744021022 / +93 798668346
 
-🔥 GitHub Stats
-Musawer's GitHub Stats
+Location: Qala e Mussa, District no 10, Kabul
 
-Top Languages
+Portfolio: musawer-cv.vercel.app
+
+GitHub: github.com/immusawer

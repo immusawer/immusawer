@@ -141,9 +141,9 @@
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=FF6B6B&labelColor=0D1117)
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=FF6B6B&labelColor=0D1117)
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=FF6B6B&labelColor=0D1117)
+![GitHub followers](https://img.shields.io/github/followers/immusawer?style=for-the-badge&color=FF6B6B&labelColor=0D1117)
+![GitHub stars](https://img.shields.io/github/stars/immusawer?style=for-the-badge&color=FF6B6B&labelColor=0D1117)
+![Profile views](https://komarev.com/ghpvc/?username=immusawer&style=for-the-badge&color=FF6B6B&labelColor=0D1117)
 
 </div>
 

@@ -29,33 +29,14 @@ A passionate Full-Stack Web Developer and Computer Science graduate from Kabul U
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## 🚀 Featured Projects
-
 ### 🛒 Shoppy E-commerce App
 **Tech Stack:** Next.js, NestJS, PostgreSQL
-- Full-featured e-commerce platform with modern UI/UX
-- Secure payment integration and user authentication
-- Admin dashboard for inventory management
-- RESTful API architecture
-
 ### 🌤️ Weather App
 **Tech Stack:** Next.js, Weather API
-- Real-time weather data and forecasts
-- Location-based weather information
-- Responsive design for all devices
-- Clean and intuitive user interface
-
 ### 🍽️ Restaurant App
 **Tech Stack:** Next.js, PostgreSQL
-- Online ordering and reservation system
-- Menu management and customer reviews
-- Mobile-responsive design
-- Payment processing integration
-
 ### 💼 Business Websites
 **Tech Stack:** React, Modern CSS
-- Custom business websites with modern designs
-- SEO optimized and performance focused
-- Responsive layouts for all screen sizes
 
 ## GitHub Stats
 <div align="center">

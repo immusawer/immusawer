@@ -18,24 +18,10 @@
 
 ## 🚀 About Me
 
-```javascript
-const abdulMusawer = {
-    name: "Abdul Musawer Dinzad",
-    role: "Full-Stack Web Developer",
-    education: "Computer Science Graduate - Kabul University",
-    currentWork: "PGL (Peace Global Logistics)",
-    location: "Kabul, Afghanistan",
-    
-    dailyRoutine: {
-        code: "Building amazing web applications",
-        learn: "Exploring cutting-edge technologies",
-        solve: "Tackling complex problems",
-        create: "Crafting exceptional digital experiences"
-    },
-    
-    lifePhilosophy: "Code with passion, debug with patience! 💫"
-};
-```
+**Full-Stack Web Developer** and **Computer Science Graduate** from Kabul University with extensive experience in building modern web applications. Currently working at **PGL (Peace Global Logistics)**, I specialize in creating scalable web solutions using cutting-edge technologies.
+
+🔥 **What I do:** Build amazing web applications, explore new technologies, and solve complex problems  
+💫 **Philosophy:** Code with passion, debug with patience!
 
 <br clear="right"/>
 

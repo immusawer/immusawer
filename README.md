@@ -71,8 +71,8 @@ A passionate Full-Stack Web Developer and Computer Science graduate from Kabul U
 
 <div align="center">
   
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=social)
-![Profile viewers](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=green)
+![GitHub stars](https://img.shields.io/github/stars/immusawer?style=social)
+![Profile viewers](https://komarev.com/ghpvc/?username=immusawer&color=green)
 
 </div>
 

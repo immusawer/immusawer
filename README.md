@@ -78,7 +78,17 @@
 
 <div align="center">
 
-### 🛒 **Shoppy E-commerce Platform**
+### 💼 **My Portfolio & CV**
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+
+**🔗 [View My Portfolio](https://musawer-cv.vercel.app/)**
+
+```
+📄 Complete CV & Resume    🎨 Professional Design    📱 Mobile Responsive
+💼 Work Experience         🎓 Education Details      📞 Contact Information
+```
+
+---
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
 
 ```

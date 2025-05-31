@@ -127,15 +127,15 @@
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=immusawer&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&border_color=FF6B6B" alt="Abdul Musawer's GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=FF6B6B&sideNums=FFFFFF&sideLabels=FF6B6B&dates=FFFFFF" alt="Abdul Musawer's GitHub Streak"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=immusawer&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=FF6B6B&sideNums=FFFFFF&sideLabels=FF6B6B&dates=FFFFFF" alt="Abdul Musawer's GitHub Streak"/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&border_color=FF6B6B&langs_count=8"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immusawer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&border_color=FF6B6B&langs_count=8"/>
 
 </div>
 
 <div align="center">
   
-![Abdul Musawer's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=FFFFFF&line=FF6B6B&point=FF6B6B&area=true&hide_border=true)
+![Abdul Musawer's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=immusawer&bg_color=0D1117&color=FFFFFF&line=FF6B6B&point=FF6B6B&area=true&hide_border=true)
 
 </div>
 

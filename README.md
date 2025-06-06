@@ -34,8 +34,7 @@
 | 🏢 **Company** | 👨‍💻 **Role** | 📅 **Duration** | 🌟 **Highlights** |
 |:--------------:|:-------------:|:---------------:|:-----------------:|
 | **PGL (Peace Global Logistics)** | Full-Stack Web Developer | 2025 - Present | Leading web development projects |
-| **Rupani Foundation-WFP** | Full-Stack Developer Intern | Jun 2024 - Jan 2025 | Built scalable web solutions |
-| **Roshan TDCA** | Products Promoter | 2023 - 2024 | Customer engagement & demos |
+| **Rupani Foundation-WFP** | Full-Stack Developer Junior | Jun 2024 - Jan 2025 | Built scalable web solutions |
 
 </div>
 

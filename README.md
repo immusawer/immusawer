@@ -18,7 +18,7 @@
 
 ## 👨‍💻 &nbsp; About Me
 
-I'm a Full-Stack Web Developer from **Kabul, Afghanistan** — CS graduate from **Kabul University**, currently building at **PGL (Peace Global Logistics)**.
+I'm a Full-Stack Web Developer from **Kabul, Afghanistan** — CS graduate from **Kabul University**.
 
 I love turning complex problems into clean, maintainable software. My focus is on building fast, reliable platforms with modern tools and a strong respect for clean architecture.
 

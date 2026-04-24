@@ -32,27 +32,95 @@
 
 <br/>
 
-<!-- ░░ ABOUT ░░ -->
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380" />
-
-## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d1_200d_1f4bb/512.webp" type="image/webp"/><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d1_200d_1f4bb/512.gif" width="32"/></picture> &nbsp; About Me
-
-```yaml
-name:        "Abdul Musawer Dinzad"
-role:        "Full-Stack Web Developer @ PGL (Peace Global Logistics)"
-education:   "B.Sc. Computer Science — Kabul University"
-location:    "Kabul · Afghanistan 🇦🇫"
-focus:       ["Microservices", "System Design", "Clean Architecture"]
-stack:       ["Next.js", "NestJS", "Laravel", ".NET Core", "PostgreSQL"]
-currently:   "Crafting scalable SaaS products & exploring cloud-native patterns"
-philosophy:  "Code with passion · Debug with patience · Ship with pride"
-fun_fact:    "I still debug with console.log — and I'm not ashamed 😄"
-```
-
-<br clear="right"/>
-
-<!-- ░░ CURRENTLY ░░ -->
+<!-- ░░ ABOUT ME · ANIMATED SECTION BANNER ░░ -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=30,2,0,2,5&height=65&section=header&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20%20About%20Me&fontSize=26&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%" />
+</div>
+
+<br/>
+
+<!-- ░░ ABOUT ME · TERMINAL + AVATAR ░░ -->
+<table>
+<tr>
+<td width="58%" valign="middle">
+
+<!-- Live typing terminal -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=800&color=FF6B6B&background=0D1117&vCenter=true&width=540&height=260&lines=%E2%9D%AF+whoami;%E2%86%92+Abdul+Musawer+Dinzad+%F0%9F%91%8B;%E2%9D%AF+cat+role.md;%E2%86%92+Full-Stack+Engineer+%40+PGL+%F0%9F%9A%80;%E2%9D%AF+cat+stack.md;%E2%86%92+Next.js+%C2%B7+NestJS+%C2%B7+Laravel+%C2%B7+.NET;%E2%9D%AF+cat+focus.md;%E2%86%92+Microservices+%7C+Clean+Architecture;%E2%9D%AF+cat+mood.md;%E2%86%92+Shipping+code+with+passion+%E2%9C%A8;%E2%9D%AF+echo+%24FUN_FACT;%E2%86%92+I+still+debug+with+console.log+%F0%9F%98%84" />
+</a>
+
+<br/><br/>
+
+<!-- Animated status pills -->
+<p>
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2_Status-Available_for_projects-22C55E?style=for-the-badge&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D_Based-Kabul%2C_Afghanistan-FF6B6B?style=for-the-badge&labelColor=0D1117" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/%F0%9F%8E%93_Degree-CS_%C2%B7_Kabul_University-6366F1?style=for-the-badge&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%92%BC_Current-PGL_(2025_%E2%86%92_Present)-A855F7?style=for-the-badge&labelColor=0D1117" />
+</p>
+
+</td>
+<td width="42%" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50" />
+  <br/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FF6B6B&center=true&vCenter=true&width=320&height=32&lines=%E2%9A%A1+Crafting+digital+experiences;%F0%9F%94%A5+Obsessed+with+clean+code;%F0%9F%92%A1+Always+learning%2C+always+shipping" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ░░ LIFE STATS · ANIMATED CARDS ░░ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,30&height=3&section=header" width="100%" />
+
+<table>
+<tr>
+<td align="center" width="20%">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="44" /><br/>
+  <b>CS Grad</b><br/>
+  <sub>Kabul Univ.</sub>
+</td>
+<td align="center" width="20%">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="44" /><br/>
+  <b>Full-Stack</b><br/>
+  <sub>End to end</sub>
+</td>
+<td align="center" width="20%">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="44" /><br/>
+  <b>Shipped</b><br/>
+  <sub>Production apps</sub>
+</td>
+<td align="center" width="20%">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.gif" width="44" /><br/>
+  <b>Fueled</b><br/>
+  <sub>by coffee</sub>
+</td>
+<td align="center" width="20%">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="44" /><br/>
+  <b>Learning</b><br/>
+  <sub>every day</sub>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,30&height=3&section=header" width="100%" />
+
+</div>
+
+<br/>
+
+<!-- ░░ NOW · CURRENTLY ░░ -->
+<div align="center">
+
+#### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4cc/512.gif" width="22" /> &nbsp; What I'm Up To Right Now
 
 <table>
 <tr>
@@ -78,8 +146,10 @@ fun_fact:    "I still debug with console.log — and I'm not ashamed 😄"
 
 <br/>
 
-<!-- ░░ TECH ARSENAL ░░ -->
-## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.webp" type="image/webp"/><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="32"/></picture> &nbsp; The Tech I Wield
+<!-- ░░ TECH ARSENAL · BANNER ░░ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=30,2,0,2,5&height=55&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20%20The%20Tech%20I%20Wield&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%" />
+</div>
 
 <div align="center">
 
@@ -110,8 +180,12 @@ fun_fact:    "I still debug with console.log — and I'm not ashamed 😄"
 
 <br/>
 
-<!-- ░░ TIMELINE ░░ -->
-## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5fa_fe0f/512.webp" type="image/webp"/><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5fa_fe0f/512.gif" width="32"/></picture> &nbsp; Professional Journey
+<!-- ░░ TIMELINE · BANNER ░░ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=30,2,0,2,5&height=55&section=header&text=%F0%9F%97%BA%EF%B8%8F%20%20Professional%20Journey&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%" />
+</div>
+
+<br/>
 
 <table align="center">
 <thead>
@@ -140,8 +214,12 @@ fun_fact:    "I still debug with console.log — and I'm not ashamed 😄"
 
 <br/>
 
-<!-- ░░ FEATURED PROJECTS ░░ -->
-## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp"/><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="32"/></picture> &nbsp; Featured Projects
+<!-- ░░ FEATURED PROJECTS · BANNER ░░ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=30,2,0,2,5&height=55&section=header&text=%F0%9F%9A%80%20%20Featured%20Projects&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -198,8 +276,12 @@ fun_fact:    "I still debug with console.log — and I'm not ashamed 😄"
 
 <br/>
 
-<!-- ░░ GITHUB ANALYTICS ░░ -->
-## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.webp" type="image/webp"/><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="32"/></picture> &nbsp; GitHub Playground
+<!-- ░░ GITHUB ANALYTICS · BANNER ░░ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=30,2,0,2,5&height=55&section=header&text=%F0%9F%93%8A%20%20GitHub%20Playground&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -224,8 +306,12 @@ fun_fact:    "I still debug with console.log — and I'm not ashamed 😄"
 
 <br/>
 
-<!-- ░░ TROPHY CABINET ░░ -->
-## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" type="image/webp"/><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="32"/></picture> &nbsp; Trophy Cabinet
+<!-- ░░ TROPHY CABINET · BANNER ░░ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=30,2,0,2,5&height=55&section=header&text=%F0%9F%8F%86%20%20Trophy%20Cabinet&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -235,8 +321,12 @@ fun_fact:    "I still debug with console.log — and I'm not ashamed 😄"
 
 <br/>
 
-<!-- ░░ MERMAID FOCUS MAP ░░ -->
-## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" type="image/webp"/><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="32"/></picture> &nbsp; Current Focus
+<!-- ░░ MERMAID FOCUS MAP · BANNER ░░ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=30,2,0,2,5&height=55&section=header&text=%F0%9F%8E%AF%20%20Current%20Focus&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -260,8 +350,12 @@ graph LR
 
 <br/>
 
-<!-- ░░ LET'S TALK ░░ -->
-## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.webp" type="image/webp"/><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif" width="32"/></picture> &nbsp; Let's Talk About
+<!-- ░░ LET'S TALK · BANNER ░░ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=30,2,0,2,5&height=55&section=header&text=%F0%9F%92%AC%20%20Let%27s%20Talk%20About&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -306,8 +400,12 @@ graph LR
 
 <br/>
 
-<!-- ░░ DEV WISDOM ░░ -->
-## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ad/512.webp" type="image/webp"/><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ad/512.gif" width="32"/></picture> &nbsp; Dev Wisdom of the Day
+<!-- ░░ DEV WISDOM · BANNER ░░ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=30,2,0,2,5&height=55&section=header&text=%F0%9F%92%AD%20%20Dev%20Wisdom%20of%20the%20Day&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="90%" />
@@ -322,8 +420,12 @@ graph LR
 
 <br/>
 
-<!-- ░░ CONNECT ░░ -->
-## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ec/512.webp" type="image/webp"/><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ec/512.gif" width="32"/></picture> &nbsp; Connect With Me
+<!-- ░░ CONNECT · BANNER ░░ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=30,2,0,2,5&height=55&section=header&text=%F0%9F%93%AC%20%20Connect%20With%20Me&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
 

@@ -62,7 +62,7 @@ I love turning complex problems into clean, maintainable software. My focus is o
 
 | Project | Stack | Link |
 |---|---|---|
-| 💼 **Portfolio & CV** | Next.js · Tailwind · Vercel | [Live →](https://musawer-cv.vercel.app/) |
+| 💼 **Portfolio & CV** | Next.js · Tailwind · Vercel | [Live →](https://musawerdev.com/) |
 | 🌤️ **Weather Forecast** | Next.js · OpenWeather | [Live →](https://weather-app-nu-liard-83.vercel.app/) |
 | 🍽️ **Restaurant Management** | Next.js · PostgreSQL · Prisma | — |
 | 💼 **Custom Business Suites** | React · TypeScript | — |
@@ -80,7 +80,7 @@ I love turning complex problems into clean, maintainable software. My focus is o
 
 ## 📬 &nbsp; Get in Touch
 
-- 🌐 &nbsp; **Portfolio** — [musawer-cv.vercel.app](https://musawer-cv.vercel.app/)
+- 🌐 &nbsp; **Portfolio** — [musawerdev](https://musawerdev.com/)
 - ✉️ &nbsp; **Email** — Dinzad.Musawer@gmail.com
 - 📱 &nbsp; **Phone** — +93 744 021 022
 - 📍 &nbsp; **Location** — Qala e Mussa, District 10, Kabul, Afghanistan
